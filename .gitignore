@@ -1,0 +1,9 @@
+.vscode
+.idea
+.DS_Store
+*.tmp
+repositories
+.ipynb_chackpoints
+venv
+model
+data/lfw_people
