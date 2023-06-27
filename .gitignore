@@ -7,3 +7,4 @@ repositories
 venv
 model
 data/lfw_people
+__pychache__
